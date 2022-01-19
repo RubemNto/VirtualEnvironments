@@ -1,8 +1,41 @@
 fileFormatVersion: 2
-guid: 404a5311bf6142644877bc2943df0329
+guid: 478dc7bfa30351e4199d258a3f6d08ef
 ModelImporter:
   serializedVersion: 20200
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: 1132547922023742953
+    second: CharacterArmature|Defeat
+  - first:
+      74: 9061338213343248790
+    second: CharacterArmature|Idle
+  - first:
+      74: 7022811679865794533
+    second: CharacterArmature|PickUp
+  - first:
+      74: -4592842328519117816
+    second: CharacterArmature|Punch
+  - first:
+      74: -4856542728082765067
+    second: CharacterArmature|RecieveHit
+  - first:
+      74: -5307234019925579384
+    second: CharacterArmature|Shoot_OneHanded
+  - first:
+      74: 228616033308382003
+    second: CharacterArmature|SitDown
+  - first:
+      74: -2488620027461464802
+    second: CharacterArmature|StandUp
+  - first:
+      74: 5008348457023331957
+    second: CharacterArmature|Victory
+  - first:
+      74: -5599002979973759676
+    second: CharacterArmature|Walk
+  - first:
+      74: -2469224417514991532
+    second: CharacterArmature|Walk_Carry
   externalObjects: {}
   materials:
     materialImportMode: 2
@@ -85,7 +118,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 0.01
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
